@@ -1,2 +1,2 @@
 # VueMenu
-利用vue创建菜单界面
+基于Vue + element-ui + echart的后台管理系统
